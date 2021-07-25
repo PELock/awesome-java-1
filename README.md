@@ -50,6 +50,7 @@ Crypto
 * [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 * [two-factor-auth](https://github.com/j256/two-factor-auth) - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
 * [JWT-Java](https://github.com/BastiaanJansen/JWT-Java) - JSON Web Token implementation for Java according to RFC 7519.
+* [JObfuscator](https://www.pelock.com/products/jobfuscator) - Source code obfuscator for Java based on advanced polymorphic encryption engine.
 
 DB engines
 ----------
